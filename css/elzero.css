@@ -34,8 +34,6 @@ a {
 .container {
   padding: 0 15px;
   margin: 0 auto;
-  z-index: 2;
-  position: relative;
 }
 .main-title {
   margin: 0 auto 80px;
